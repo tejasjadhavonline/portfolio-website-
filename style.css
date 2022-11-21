@@ -6,6 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+    color: white;
 }
 html{
     scroll-behavior: smooth;
@@ -703,7 +704,3 @@ footer span a:hover{
   color: black;
 }
 
-a.LINK {
-  color: white;
-    text-decoration: none;
-}
