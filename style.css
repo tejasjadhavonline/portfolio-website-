@@ -703,7 +703,7 @@ footer span a:hover{
   color: black;
 }
 
-a:link {
+a.LINK {
   color: white;
     text-decoration: none;
 }
